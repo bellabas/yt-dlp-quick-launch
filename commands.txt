@@ -1,0 +1,10 @@
+youtube-dl [OPTIONS] [LINK, PLAYLIST LINK]
+
+====OPTIONS====
+--extract-audio
+--audio-format [FORMAT]
+--audio-quality [0-9 (best to worst)]
+--embed-thumbnail 
+--playlist-start [NUMBER]
+--playlist-end [NUMBER]
+--update
