@@ -1,4 +1,4 @@
-youtube-dl [OPTIONS] [LINK, PLAYLIST LINK]
+yt-dlp [OPTIONS] [LINK, PLAYLIST LINK]
 
 ====OPTIONS====
 --extract-audio
